@@ -1,0 +1,1 @@
+export const API = "http://cnt.rh-s.com/api";
